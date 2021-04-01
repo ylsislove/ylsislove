@@ -1,5 +1,6 @@
 <p align="left">
-  <a href="https://count.getloli.com/"><img src="https://count.getloli.com/get/@:ylsislove" align="center"></a>
+  <a href="https://count.getloli.com/"><img src="https://count.getloli.com/get/@:ylsislove"></a>
+  <img src="https://weather-icon.journeyad.repl.co/@wuhan?v=1" align="right">
 </p>
 
 <h1 align="center">Hi 👋, I'm Yain</h1>
