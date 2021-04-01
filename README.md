@@ -1,12 +1,6 @@
 <p>
   <img src="https://weather-icon.journeyad.repl.co/@wuhan?v=1" align="left">
-  <a href="https://count.getloli.com/"><img src="https://count.getloli.com/get/@:ylsislove" align="center"></a>
-  <h3 align="right">Connect with me:</h3>
-  <p align="right">
-    <a href="https://twitter.com/ylsislove" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="ylsislove" height="30" width="40" /></a>
-    <a href="https://kaggle.com/ylsislove" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/kaggle.svg" alt="ylsislove" height="30" width="40" /></a>
-    <a href="https://www.youtube.com/c/uc6sx0awxf7-xuqjykzq9hmw" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/youtube.svg" alt="uc6sx0awxf7-xuqjykzq9hmw" height="30" width="40" /></a>
-  </p>
+  <a href="https://count.getloli.com/"><img src="https://count.getloli.com/get/@:ylsislove" align="right"></a>
 </p>
 
 <h1 align="center">Hi 👋, I'm Yain</h1>
