@@ -6,7 +6,7 @@
 <h1 align="center">Hi 👋, I'm Yain</h1>
 <h3 align="center">A passionate fullstack developer from China</h3>
 
-- 🌱 I’m currently learning **WebRTC**
+- 🌱 I’m currently learning **WebRTC + OpenCV + YOLO5**
 
 - 📝 I regularly write articles on [make-a-little-progress-every-day](https://github.com/ylsislove/make-a-little-progress-every-day)
 
