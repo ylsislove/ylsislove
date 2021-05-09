@@ -8,13 +8,15 @@
 
 - 🌱 I’m currently learning **WebRTC + OpenCV + YOLO5**
 
-- 📝 I regularly write articles on [make-a-little-progress-every-day](https://github.com/ylsislove/make-a-little-progress-every-day)
+- 📚 I regularly write articles on [make-a-little-progress-every-day](https://github.com/ylsislove/make-a-little-progress-every-day)
 
 - 💬 Ask me about **HoloLens 2**
 
 - 📫 How to reach me **916491013@qq.com**
 
 - 📄 Know about my experiences [Resume](https://github.com/ylsislove/make-a-little-progress-every-day/blob/master/resume.md)
+
+- 📝 最新技术文章 [HoloLens2-使用UWP原生MediaCapture解决图像捕获与WebRTC视频流冲突问题](https://github.com/ylsislove/make-a-little-progress-every-day/blob/master/2021/2021-05/2021-05-09/HoloLens2-使用UWP原生MediaCapture解决图像捕获与WebRTC视频流冲突问题.md)
 
 <!--
 <h3 align="center">Connect with me:</h3>
