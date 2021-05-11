@@ -14,7 +14,7 @@
 
 - 📫 How to reach me **916491013@qq.com**
 
-- 📄 Know about my experiences [Resume](https://github.com/ylsislove/make-a-little-progress-every-day/blob/master/resume.md)
+- 📄 Know about my experiences [Resume](https://github.com/ylsislove/make-a-little-progress-every-day/blob/master/Resume.md)
 
 <!--
 <h3 align="center">Connect with me:</h3>
