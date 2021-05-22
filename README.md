@@ -35,3 +35,6 @@
 
 ### 📝 最新技术文章 
 * [HoloLens2开发笔记-使用UWP原生MediaCapture解决图像捕获与WebRTC视频流冲突问题](https://github.com/ylsislove/make-a-little-progress-every-day/blob/master/2021/2021-05/2021-05-09/HoloLens2-使用UWP原生MediaCapture解决图像捕获与WebRTC视频流冲突问题.md)
+
+### 🥽 最新视频
+* [本科毕设展示：戴着AR眼镜度量城市的每一个角落](https://www.bilibili.com/video/BV1qN411o7Ev)
