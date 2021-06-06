@@ -8,7 +8,7 @@
 
 - 🌱 I’m currently learning **WebRTC + OpenCV + YOLO5**
 
-- 📝 I regularly write articles on [My Blog 学无止境](https://ylsislove.github.io/)
+- 📝 I regularly write articles on [My Blog](https://ylsislove.github.io/)
 
 - 💬 Ask me about **HoloLens 2**
 
