@@ -6,9 +6,9 @@
 <h1 align="center">Hi 👋, I'm Yain</h1>
 <h3 align="center">A passionate fullstack developer from China</h3>
 
-- 🌱 I’m currently learning **STM32 + SolidWorks + PCB**
+- 🌱 I’m currently learning **HarmonyOS**
 
-- 📝 I regularly write articles on [My Blog](https://ylsislove.github.io/)
+- 📝 I regularly write articles on [My Blog](https://blog.aayu.today/)
 
 - 💬 Ask me about **HoloLens 2**
 
@@ -33,11 +33,12 @@
   <img align="" width=48% src="https://github-readme-streak-stats.herokuapp.com/?user=ylsislove&" alt="ylsislove" />
 </p>
 
-### 📝 最新技术文章
+### 📝 精选技术文章
 * [GIS-Google地图3D模型下载最新实践](https://github.com/ylsislove/make-a-little-progress-every-day/blob/master/2021/2021-07/2021-07-05/GIS-Google地图3D模型下载最新实践.md)
 * [HoloLens2开发笔记-使用UWP原生MediaCapture解决图像捕获与WebRTC视频流冲突问题](https://github.com/ylsislove/make-a-little-progress-every-day/blob/master/2021/2021-05/2021-05-09/HoloLens2-使用UWP原生MediaCapture解决图像捕获与WebRTC视频流冲突问题.md)
 * [小熊派-串口读取RS485输出的土壤七合一传感器数据（基于STM32CubeMX）](https://github.com/ylsislove/make-a-little-progress-every-day/blob/master/2021/2021-10/2021-10-14/小熊派-串口读取RS485输出的土壤七合一传感器数据（基于STM32CubeMX）.md)
 * [物联网-基于docker部署thingsboard+tb-gateway+emqx详细教程](https://github.com/ylsislove/make-a-little-progress-every-day/blob/master/2021/2021-11/2021-11-23/物联网-基于docker部署thingsboard+tb-gateway+emqx详细教程.md)
+* [黑群晖NAS搭建兰空图床（Lsky）](https://blog.aayu.today/)
 
 ### 🥽 最新视频
 * [本科毕设展示：戴着AR眼镜度量城市的每一个角落](https://www.bilibili.com/video/BV1qN411o7Ev)
