@@ -12,9 +12,9 @@
 
 - 💬 Ask me about **HoloLens 2**
 
-- 📫 How to reach me **916491013@qq.com**
+- 📫 How to reach me **wangyu0814@foxmail.com**
 
-- 📄 Know about my experiences [Resume](https://github.com/ylsislove/make-a-little-progress-every-day/blob/master/Resume.md)
+- 📄 Know about my experiences [Resume](https://blog.aayu.today/about/)
 
 <!--
 <h3 align="center">Connect with me:</h3>
